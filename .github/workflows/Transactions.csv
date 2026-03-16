@@ -1,0 +1,26 @@
+
+Deposit,System,Adarsh,50000
+Withdrawal,Archit,System,5000
+Transfer,Adarsh,Archit,50000
+Deposit,System,Adarsh,50000
+Withdrawal,Baibhav,System,50000
+Transfer,Baibhav,Adarsh,0
+Deposit,System,Adarsh,50000
+Deposit,System,Adarsh,50000
+Deposit,System,Adarsh,50000
+Deposit,System,Adarsh,50000
+Withdraw,Adarsh,System,50000
+Transfer,Archit,Adarsh,50000
+Deposit,System,Adarsh,50000
+Deposit,System,Adarsh,50000
+Deposit,System,Adarsh,50000
+Deposit,System,Adarsh,50000
+Deposit,System,Adarsh,50000
+Deposit,System,Adarsh,50000
+Deposit,System,Adarsh,50000
+Transfer,Adarsh,Archit,50000,Sun Mar 15 13:53:42 IST 2026
+Transfer,Adarsh,Archit,50000,Sun Mar 15 13:59:04 IST 2026
+Transfer,Adarsh,Archit,50000,Sun Mar 15 14:05:02 IST 2026
+Transfer,Adarsh,Archit,50000,Sun Mar 15 14:48:23 IST 2026
+Transfer,Adarsh,Archit,50000
+Transfer,Adarsh,Archit,50000
